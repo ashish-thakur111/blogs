@@ -6,10 +6,10 @@ This repository contains technical blog posts about AI, technology, and related 
 
 ## Structure
 
-- Blog posts should be located in the `content/blog/` directory.
+- Blog posts should be located in the `content/` directory.
 - Supported post formats:
-	1. Folder-based: `content/blog/post-name/index.md` (recommended for posts with images)
-	2. File-based: `content/blog/post-name.md` (simple posts)
+	1. Folder-based: `content/post-name/index.md` (recommended for posts with images)
+	2. File-based: `content/post-name.md` (simple posts)
 
 ## Frontmatter
 
