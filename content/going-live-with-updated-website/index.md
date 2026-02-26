@@ -28,10 +28,23 @@ What to expect
 
 - Faster deploys and quicker content updates.
 - Better compatibility with modern hosting and edge runtimes.
-- Ongoing improvements: I'll continue refining the site, improving accessibility, and adding more posts.
+- **New Content Topics:** I'll be covering a lot more technical content, specifically focusing on:
+    - **Open Source Software (OSS):** Contributing to and managing open-source projects.
+    - **Java Ecosystem:** Deep dives into modern Java, Spring Boot, and performance tuning.
+    - **Cloud Native:** Kubernetes, microservices architecture, and serverless patterns.
+    - **Artificial Intelligence (AI):** Integrating LLMs, building AI-powered applications, MCP, and MLOps.
+- **Ongoing improvements:** I'll continue refining the site, improving accessibility, and adding more posts.
 
-If you notice any issues, please reach out.
+Stay Connected
 
-Thanks for following along - more posts coming soon.
+I'm excited to share more of my journey with you. To stay updated with my latest posts and projects, you can:
+
+- Follow me on [Twitter/X](https://x.com/ashish___thakur)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ashish-thakur111/)
+- Check out my projects on [GitHub](https://github.com/ash-thakur-rh)
+
+If you notice any issues or just want to chat, please reach out.
+
+Thanks for following along!
 
 --Ashish
