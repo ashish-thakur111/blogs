@@ -2,12 +2,14 @@
 title: "Going Live: My Updated Website (Gatsby → Next.js)"
 date: "2026-02-26"
 category: "Announcement"
-description: "Launching my rebuilt site migrated from Gatsby to Next.js — why I migrated and what to expect."
+description: "Launching my rebuilt site migrated from Gatsby to Next.js - why I migrated and what to expect."
 ---
 
 I'm excited to announce that my updated website is now live. I migrated the site from Gatsby to a Next.js stack to improve maintainability, performance, and developer experience.
 
-Old site: https://ashish-thakur111.github.io/
+Old site: https://ashish-thakur111.github.io
+
+New site: https://ashthakur.in
 
 Why I migrated
 
@@ -19,7 +21,7 @@ Why I migrated
 What changed
 
 - The site codebase is now a Next.js app with pages and components optimized for SSR/SSG as appropriate.
-- Content remains Markdown-based and lives under `content/blog/` for easy editing and future migrations.
+- Content remains Markdown-based and lives under `content/` for easy editing and future migrations.
 - RSS, category filtering, and slugs are preserved during the transition.
 
 What to expect
@@ -28,8 +30,8 @@ What to expect
 - Better compatibility with modern hosting and edge runtimes.
 - Ongoing improvements: I'll continue refining the site, improving accessibility, and adding more posts.
 
-If you notice any issues or missing content from the previous site, please open an issue or reach out.
+If you notice any issues, please reach out.
 
-Thanks for following along — more posts coming soon.
+Thanks for following along - more posts coming soon.
 
-— Ashish
+- Ashish
