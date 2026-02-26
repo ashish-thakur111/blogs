@@ -1,0 +1,17 @@
+name: Notify Website
+on:
+  push:
+    branches:
+      - main
+  
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Repository Dispatch
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: token ${{ secrets.BLOG_UPDATE_PUSH_TOKEN }}" \
+            https://api.github.com/repos/ashish-thakur111/my-website/dispatches \
+            -d '{"event_type": "blog_updated"}'
