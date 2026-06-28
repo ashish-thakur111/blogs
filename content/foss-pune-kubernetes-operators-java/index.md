@@ -1,6 +1,6 @@
 ---
 title: "Building Production-Grade Kubernetes Operators in Java — My Talk at FOSS United Pune"
-date: "2026-06-22"
+date: "2026-06-28"
 category: "Open Source"
 description: "A walkthrough of my talk at FOSS United Pune on building production-grade Kubernetes operators using the Java Operator SDK (JOSDK) and Fabric8 Kubernetes Client — covering the operator pattern, the Java stack, dependent resources, and a live demo."
 ---
